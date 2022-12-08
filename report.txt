@@ -1,0 +1,600 @@
+ABB SS Equity mean_spread  0.147277 median_spread   0.100006
+ABB SS Equity mean_trade_times   715.911 median_trade_times   0
+ABB SS Equity mean_trade_tick   1795.37 median_trade_tick   256
+ABB SS Equity Longest time between trades   56960 Longest time between tick changes   56960
+
+
+AKA NO Equity mean_spread  0.145371 median_spread   0.0600014
+AKA NO Equity mean_trade_times   1411.17 median_trade_times   128
+AKA NO Equity mean_trade_tick   1805.87 median_trade_tick   512
+AKA NO Equity Longest time between trades   62208 Longest time between tick changes   62208
+
+
+AKSO NO Equity mean_spread  0.249719 median_spread   0.149998
+AKSO NO Equity mean_trade_times   824.023 median_trade_times   128
+AKSO NO Equity mean_trade_tick   1117.94 median_trade_tick   128
+AKSO NO Equity Longest time between trades   62592 Longest time between tick changes   62592
+
+
+ALFA SS Equity mean_spread  0.187297 median_spread   0.100006
+ALFA SS Equity mean_trade_times   586.775 median_trade_times   0
+ALFA SS Equity mean_trade_tick   741.26 median_trade_tick   0
+ALFA SS Equity Longest time between trades   59904 Longest time between tick changes   59904
+
+
+AMEAS FH Equity mean_spread  0.0376394 median_spread   0.0300007
+AMEAS FH Equity mean_trade_times   5287.38 median_trade_times   64
+AMEAS FH Equity mean_trade_tick   9130.67 median_trade_tick   384
+AMEAS FH Equity Longest time between trades   108032 Longest time between tick changes   108032
+
+
+ASSAB SS Equity mean_spread  0.642151 median_spread   0.5
+ASSAB SS Equity mean_trade_times   1995.92 median_trade_times   0
+ASSAB SS Equity mean_trade_tick   4591.21 median_trade_tick   640
+ASSAB SS Equity Longest time between trades   66432 Longest time between tick changes   66432
+
+
+ATCOA SS Equity mean_spread  0.175695 median_spread   0.199982
+ATCOA SS Equity mean_trade_times   2614.02 median_trade_times   512
+ATCOA SS Equity mean_trade_tick   4105.41 median_trade_tick   1088
+ATCOA SS Equity Longest time between trades   64256 Longest time between tick changes   64256
+
+
+ATCOB SS Equity mean_spread  0.248059 median_spread   0.200012
+ATCOB SS Equity mean_trade_times   3229.77 median_trade_times   64
+ATCOB SS Equity mean_trade_tick   6304.74 median_trade_tick   1408
+ATCOB SS Equity Longest time between trades   64128 Longest time between tick changes   64128
+
+
+AZN SS Equity mean_spread  0.750797 median_spread   0.5
+AZN SS Equity mean_trade_times   2412.64 median_trade_times   0
+AZN SS Equity mean_trade_tick   5773.06 median_trade_tick   1024
+AZN SS Equity Longest time between trades   57600 Longest time between tick changes   57600
+
+
+BBHBEAT Index mean_spread  4 median_spread   4
+BBHBEAT Index mean_trade_times   2.33209 median_trade_times   0
+BBHBEAT Index mean_trade_tick   -1 median_trade_tick   -1
+BBHBEAT Index Longest time between trades   55040 Longest time between tick changes   -1
+
+
+BOL SS Equity mean_spread  0.163039 median_spread   0.199997
+BOL SS Equity mean_trade_times   973.145 median_trade_times   0
+BOL SS Equity mean_trade_tick   2234.37 median_trade_tick   384
+BOL SS Equity Longest time between trades   57856 Longest time between tick changes   57856
+
+
+BWLPG NO Equity mean_spread  0.403666 median_spread   0.150002
+BWLPG NO Equity mean_trade_times   925.699 median_trade_times   128
+BWLPG NO Equity mean_trade_tick   1648.48 median_trade_tick   256
+BWLPG NO Equity Longest time between trades   60928 Longest time between tick changes   60928
+
+
+CARLB DC Equity mean_spread  0.647864 median_spread   0.5
+CARLB DC Equity mean_trade_times   11861.3 median_trade_times   3136
+CARLB DC Equity mean_trade_tick   16400 median_trade_tick   5120
+CARLB DC Equity Longest time between trades   77952 Longest time between tick changes   77952
+
+
+CGCBV FH Equity mean_spread  0.046156 median_spread   0.0400009
+CGCBV FH Equity mean_trade_times   7150.7 median_trade_times   640
+CGCBV FH Equity mean_trade_tick   9704.3 median_trade_tick   1024
+CGCBV FH Equity Longest time between trades   83456 Longest time between tick changes   83456
+
+
+CHR DC Equity mean_spread  0.280147 median_spread   0.200012
+CHR DC Equity mean_trade_times   4411.08 median_trade_times   256
+CHR DC Equity mean_trade_tick   7276.31 median_trade_tick   768
+CHR DC Equity Longest time between trades   74880 Longest time between tick changes   74880
+
+
+COLOB DC Equity mean_spread  0.720395 median_spread   0.5
+COLOB DC Equity mean_trade_times   2417.4 median_trade_times   128
+COLOB DC Equity mean_trade_tick   4452.27 median_trade_tick   640
+COLOB DC Equity Longest time between trades   67840 Longest time between tick changes   67840
+
+
+DANSKE DC Equity mean_spread  0.140345 median_spread   0.100006
+DANSKE DC Equity mean_trade_times   721.045 median_trade_times   128
+DANSKE DC Equity mean_trade_tick   1195.42 median_trade_tick   256
+DANSKE DC Equity Longest time between trades   58624 Longest time between tick changes   58624
+
+
+DETNOR NO Equity mean_spread  0.269336 median_spread   0.150002
+DETNOR NO Equity mean_trade_times   742.869 median_trade_times   128
+DETNOR NO Equity mean_trade_tick   1071.69 median_trade_tick   256
+DETNOR NO Equity Longest time between trades   60672 Longest time between tick changes   60672
+
+
+DNB NO Equity mean_spread  0.346635 median_spread   0.100006
+DNB NO Equity mean_trade_times   171.101 median_trade_times   0
+DNB NO Equity mean_trade_tick   474.226 median_trade_tick   128
+DNB NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+DNO NO Equity mean_spread  0.0536614 median_spread   0.0299997
+DNO NO Equity mean_trade_times   194.927 median_trade_times   0
+DNO NO Equity mean_trade_tick   377.708 median_trade_tick   128
+DNO NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+DSV DC Equity mean_spread  0.177045 median_spread   0.199997
+DSV DC Equity mean_trade_times   1957.96 median_trade_times   128
+DSV DC Equity mean_trade_tick   4239.75 median_trade_tick   512
+DSV DC Equity Longest time between trades   78080 Longest time between tick changes   78080
+
+
+ELI1V FH Equity mean_spread  0.0211177 median_spread   0.0200005
+ELI1V FH Equity mean_trade_times   8404 median_trade_times   2176
+ELI1V FH Equity mean_trade_tick   7008 median_trade_tick   2304
+ELI1V FH Equity Longest time between trades   70016 Longest time between tick changes   61184
+
+
+ELUXB SS Equity mean_spread  0.174848 median_spread   0.199997
+ELUXB SS Equity mean_trade_times   1830.81 median_trade_times   128
+ELUXB SS Equity mean_trade_tick   3756.37 median_trade_tick   640
+ELUXB SS Equity Longest time between trades   67712 Longest time between tick changes   67712
+
+
+ERICB SS Equity mean_spread  0.0987714 median_spread   0.0999985
+ERICB SS Equity mean_trade_times   160.054 median_trade_times   0
+ERICB SS Equity mean_trade_tick   313.837 median_trade_tick   0
+ERICB SS Equity Longest time between trades   56704 Longest time between tick changes   56704
+
+
+FLS DC Equity mean_spread  0.276073 median_spread   0.200012
+FLS DC Equity mean_trade_times   2535.08 median_trade_times   0
+FLS DC Equity mean_trade_tick   5805.33 median_trade_tick   768
+FLS DC Equity Longest time between trades   80768 Longest time between tick changes   80768
+
+
+FOE NO Equity mean_spread  0.405101 median_spread   0.25
+FOE NO Equity mean_trade_times   921.766 median_trade_times   128
+FOE NO Equity mean_trade_tick   1314.68 median_trade_tick   256
+FOE NO Equity Longest time between trades   61312 Longest time between tick changes   61312
+
+
+FUM1V FH Equity mean_spread  0.0147265 median_spread   0.0100002
+FUM1V FH Equity mean_trade_times   1250.5 median_trade_times   256
+FUM1V FH Equity mean_trade_tick   1914.51 median_trade_tick   448
+FUM1V FH Equity Longest time between trades   56704 Longest time between tick changes   56704
+
+
+GEN DC Equity mean_spread  1.01866 median_spread   1
+GEN DC Equity mean_trade_times   3493.93 median_trade_times   512
+GEN DC Equity mean_trade_tick   3577.26 median_trade_tick   768
+GEN DC Equity Longest time between trades   67328 Longest time between tick changes   64128
+
+
+GETIB SS Equity mean_spread  0.231164 median_spread   0.199997
+GETIB SS Equity mean_trade_times   313.074 median_trade_times   0
+GETIB SS Equity mean_trade_tick   532.669 median_trade_tick   0
+GETIB SS Equity Longest time between trades   56704 Longest time between tick changes   56704
+
+
+GJF NO Equity mean_spread  0.296424 median_spread   0.100006
+GJF NO Equity mean_trade_times   456.704 median_trade_times   0
+GJF NO Equity mean_trade_tick   984.123 median_trade_tick   128
+GJF NO Equity Longest time between trades   60416 Longest time between tick changes   60416
+
+
+GN DC Equity mean_spread  0.172284 median_spread   0.199997
+GN DC Equity mean_trade_times   10529.2 median_trade_times   640
+GN DC Equity mean_trade_tick   13190.1 median_trade_tick   2176
+GN DC Equity Longest time between trades   82176 Longest time between tick changes   82176
+
+
+HMB SS Equity mean_spread  0.163935 median_spread   0.199982
+HMB SS Equity mean_trade_times   810.667 median_trade_times   128
+HMB SS Equity mean_trade_tick   1341.51 median_trade_tick   256
+HMB SS Equity Longest time between trades   57728 Longest time between tick changes   57728
+
+
+HUH1V FH Equity mean_spread  0.0436167 median_spread   0.039999
+HUH1V FH Equity mean_trade_times   5184 median_trade_times   640
+HUH1V FH Equity mean_trade_tick   6643.81 median_trade_tick   960
+HUH1V FH Equity Longest time between trades   63744 Longest time between tick changes   63744
+
+
+INVEB SS Equity mean_spread  0.212296 median_spread   0.200012
+INVEB SS Equity mean_trade_times   880.78 median_trade_times   128
+INVEB SS Equity mean_trade_tick   1409.93 median_trade_tick   384
+INVEB SS Equity Longest time between trades   58368 Longest time between tick changes   58368
+
+
+ISS DC Equity mean_spread  0.27177 median_spread   0.199997
+ISS DC Equity mean_trade_times   4041.92 median_trade_times   128
+ISS DC Equity mean_trade_tick   8648 median_trade_tick   1536
+ISS DC Equity Longest time between trades   65152 Longest time between tick changes   65152
+
+
+JYSK DC Equity mean_spread  0.209889 median_spread   0.200012
+JYSK DC Equity mean_trade_times   1527.79 median_trade_times   128
+JYSK DC Equity mean_trade_tick   3443.36 median_trade_tick   512
+JYSK DC Equity Longest time between trades   60544 Longest time between tick changes   60544
+
+
+KCR1V FH Equity mean_spread  0.0499191 median_spread   0.0400009
+KCR1V FH Equity mean_trade_times   32848 median_trade_times   21888
+KCR1V FH Equity mean_trade_tick   32848 median_trade_tick   21888
+KCR1V FH Equity Longest time between trades   75136 Longest time between tick changes   75136
+
+
+KESBV FH Equity mean_spread  0.0390979 median_spread   0.0300026
+KESBV FH Equity mean_trade_times   28160 median_trade_times   4160
+KESBV FH Equity mean_trade_tick   40228.6 median_trade_tick   7680
+KESBV FH Equity Longest time between trades   181632 Longest time between tick changes   181632
+
+
+KINVB SS Equity mean_spread  0.236659 median_spread   0.200012
+KINVB SS Equity mean_trade_times   1516.94 median_trade_times   128
+KINVB SS Equity mean_trade_tick   2558.84 median_trade_tick   512
+KINVB SS Equity Longest time between trades   61056 Longest time between tick changes   61056
+
+
+KNEBV FH Equity mean_spread  0.0325907 median_spread   0.0200005
+KNEBV FH Equity mean_trade_times   911.344 median_trade_times   0
+KNEBV FH Equity mean_trade_tick   1429.11 median_trade_tick   128
+KNEBV FH Equity Longest time between trades   57856 Longest time between tick changes   57856
+
+
+KRA1V FH Equity mean_spread  0.0182007 median_spread   0.0199995
+KRA1V FH Equity mean_trade_times   8568.24 median_trade_times   1664
+KRA1V FH Equity mean_trade_tick   12736 median_trade_tick   1856
+KRA1V FH Equity Longest time between trades   79360 Longest time between tick changes   79360
+
+
+LUPE SS Equity mean_spread  0.143954 median_spread   0.100006
+LUPE SS Equity mean_trade_times   1445.31 median_trade_times   128
+LUPE SS Equity mean_trade_tick   2345.93 median_trade_tick   512
+LUPE SS Equity Longest time between trades   64768 Longest time between tick changes   64768
+
+
+MAERSKA DC Equity mean_spread  12.3285 median_spread   10
+MAERSKA DC Equity mean_trade_times   4222.12 median_trade_times   640
+MAERSKA DC Equity mean_trade_tick   6104.18 median_trade_tick   1152
+MAERSKA DC Equity Longest time between trades   81920 Longest time between tick changes   81920
+
+
+MAERSKB DC Equity mean_spread  13.4822 median_spread   10
+MAERSKB DC Equity mean_trade_times   1156.13 median_trade_times   128
+MAERSKB DC Equity mean_trade_tick   1956.15 median_trade_tick   384
+MAERSKB DC Equity Longest time between trades   58880 Longest time between tick changes   58880
+
+
+MEO1V FH Equity mean_spread  0.0297921 median_spread   0.0200005
+MEO1V FH Equity mean_trade_times   2809.79 median_trade_times   128
+MEO1V FH Equity mean_trade_tick   3601.6 median_trade_tick   256
+MEO1V FH Equity Longest time between trades   85376 Longest time between tick changes   85376
+
+
+MHG NO Equity mean_spread  0.229506 median_spread   0.0500031
+MHG NO Equity mean_trade_times   265.398 median_trade_times   0
+MHG NO Equity mean_trade_tick   410.699 median_trade_tick   128
+MHG NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+MTGB SS Equity mean_spread  0.269277 median_spread   0.200012
+MTGB SS Equity mean_trade_times   1382.78 median_trade_times   0
+MTGB SS Equity mean_trade_tick   2788 median_trade_tick   384
+MTGB SS Equity Longest time between trades   58624 Longest time between tick changes   58624
+
+
+NAS NO Equity mean_spread  1.72779 median_spread   0.5
+NAS NO Equity mean_trade_times   293.701 median_trade_times   0
+NAS NO Equity mean_trade_tick   467.123 median_trade_tick   128
+NAS NO Equity Longest time between trades   60160 Longest time between tick changes   60160
+
+
+NDA DC Equity mean_spread  0.103013 median_spread   0.0999985
+NDA DC Equity mean_trade_times   5711.36 median_trade_times   640
+NDA DC Equity mean_trade_tick   8756 median_trade_tick   1088
+NDA DC Equity Longest time between trades   74496 Longest time between tick changes   74496
+
+
+NDA SS Equity mean_spread  0.118602 median_spread   0.0999985
+NDA SS Equity mean_trade_times   458.971 median_trade_times   128
+NDA SS Equity mean_trade_tick   1000.82 median_trade_tick   256
+NDA SS Equity Longest time between trades   57984 Longest time between tick changes   57984
+
+
+NDA1V FH Equity mean_spread  0.0159808 median_spread   0.0199995
+NDA1V FH Equity mean_trade_times   779.385 median_trade_times   128
+NDA1V FH Equity mean_trade_tick   1542.7 median_trade_tick   384
+NDA1V FH Equity Longest time between trades   58880 Longest time between tick changes   58880
+
+
+NES1V FH Equity mean_spread  0.0309572 median_spread   0.0299988
+NES1V FH Equity mean_trade_times   2349.56 median_trade_times   0
+NES1V FH Equity mean_trade_tick   2946.72 median_trade_tick   128
+NES1V FH Equity Longest time between trades   83328 Longest time between tick changes   83328
+
+
+NHY NO Equity mean_spread  0.0584299 median_spread   0.0200005
+NHY NO Equity mean_trade_times   131.539 median_trade_times   0
+NHY NO Equity mean_trade_tick   228.64 median_trade_tick   0
+NHY NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+NOK1V FH Equity mean_spread  0.0061927 median_spread   0.00500011
+NOK1V FH Equity mean_trade_times   333.036 median_trade_times   0
+NOK1V FH Equity mean_trade_tick   554.4 median_trade_tick   128
+NOK1V FH Equity Longest time between trades   56320 Longest time between tick changes   56320
+
+
+NOKISEK SS Equity mean_spread  0.0952009 median_spread   0.0999985
+NOKISEK SS Equity mean_trade_times   534.199 median_trade_times   0
+NOKISEK SS Equity mean_trade_tick   1132.72 median_trade_tick   256
+NOKISEK SS Equity Longest time between trades   56192 Longest time between tick changes   56192
+
+
+NOVOB DC Equity mean_spread  0.177748 median_spread   0.199982
+NOVOB DC Equity mean_trade_times   391.499 median_trade_times   0
+NOVOB DC Equity mean_trade_tick   670.3 median_trade_tick   128
+NOVOB DC Equity Longest time between trades   57984 Longest time between tick changes   57984
+
+
+NRE1V FH Equity mean_spread  0.0234573 median_spread   0.0200005
+NRE1V FH Equity mean_trade_times   4175.77 median_trade_times   384
+NRE1V FH Equity mean_trade_tick   6257.78 median_trade_tick   640
+NRE1V FH Equity Longest time between trades   69504 Longest time between tick changes   69504
+
+
+NZYMB DC Equity mean_spread  0.221951 median_spread   0.200012
+NZYMB DC Equity mean_trade_times   895.601 median_trade_times   0
+NZYMB DC Equity mean_trade_tick   1650.81 median_trade_tick   256
+NZYMB DC Equity Longest time between trades   59136 Longest time between tick changes   59136
+
+
+OPERA NO Equity mean_spread  0.357256 median_spread   0.100006
+OPERA NO Equity mean_trade_times   320.143 median_trade_times   0
+OPERA NO Equity mean_trade_tick   542.513 median_trade_tick   128
+OPERA NO Equity Longest time between trades   60544 Longest time between tick changes   60544
+
+
+ORK NO Equity mean_spread  0.212364 median_spread   0.0499992
+ORK NO Equity mean_trade_times   339.154 median_trade_times   0
+ORK NO Equity mean_trade_tick   674.712 median_trade_tick   128
+ORK NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+ORNBV FH Equity mean_spread  0.0325221 median_spread   0.0300007
+ORNBV FH Equity mean_trade_times   20323.6 median_trade_times   512
+ORNBV FH Equity mean_trade_tick   30485.3 median_trade_tick   11264
+ORNBV FH Equity Longest time between trades   84096 Longest time between tick changes   84096
+
+
+OTE1V FH Equity mean_spread  0.0115122 median_spread   0.0100002
+OTE1V FH Equity mean_trade_times   1723.02 median_trade_times   256
+OTE1V FH Equity mean_trade_tick   2953.74 median_trade_tick   640
+OTE1V FH Equity Longest time between trades   63360 Longest time between tick changes   63360
+
+
+OUT1V FH Equity mean_spread  0.010535 median_spread   0.00999975
+OUT1V FH Equity mean_trade_times   548.918 median_trade_times   0
+OUT1V FH Equity mean_trade_tick   851.796 median_trade_tick   128
+OUT1V FH Equity Longest time between trades   62976 Longest time between tick changes   62976
+
+
+PGS NO Equity mean_spread  0.111419 median_spread   0.0600014
+PGS NO Equity mean_trade_times   220.192 median_trade_times   0
+PGS NO Equity mean_trade_tick   321.626 median_trade_tick   0
+PGS NO Equity Longest time between trades   61184 Longest time between tick changes   61184
+
+
+PNDORA DC Equity mean_spread  0.729761 median_spread   0.5
+PNDORA DC Equity mean_trade_times   856 median_trade_times   128
+PNDORA DC Equity mean_trade_tick   1448.57 median_trade_tick   256
+PNDORA DC Equity Longest time between trades   58880 Longest time between tick changes   58880
+
+
+RCL NO Equity mean_spread  1.89908 median_spread   1
+RCL NO Equity mean_trade_times   678.154 median_trade_times   0
+RCL NO Equity mean_trade_tick   1047.94 median_trade_tick   128
+RCL NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+REC NO Equity mean_spread  0.0124019 median_spread   0.00600004
+REC NO Equity mean_trade_times   427.497 median_trade_times   0
+REC NO Equity mean_trade_tick   662.769 median_trade_tick   128
+REC NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+SAMAS FH Equity mean_spread  0.0216699 median_spread   0.0200005
+SAMAS FH Equity mean_trade_times   3258.85 median_trade_times   768
+SAMAS FH Equity mean_trade_tick   4235.64 median_trade_tick   960
+SAMAS FH Equity Longest time between trades   59648 Longest time between tick changes   59648
+
+
+SAND SS Equity mean_spread  0.0658803 median_spread   0.0500031
+SAND SS Equity mean_trade_times   757.277 median_trade_times   128
+SAND SS Equity mean_trade_tick   1303.16 median_trade_tick   384
+SAND SS Equity Longest time between trades   58752 Longest time between tick changes   58752
+
+
+SCAB SS Equity mean_spread  0.146037 median_spread   0.100006
+SCAB SS Equity mean_trade_times   1226.71 median_trade_times   128
+SCAB SS Equity mean_trade_tick   2388.55 median_trade_tick   384
+SCAB SS Equity Longest time between trades   61824 Longest time between tick changes   61824
+
+
+SCH NO Equity mean_spread  1.26014 median_spread   0.5
+SCH NO Equity mean_trade_times   364.8 median_trade_times   0
+SCH NO Equity mean_trade_tick   546.52 median_trade_tick   128
+SCH NO Equity Longest time between trades   60928 Longest time between tick changes   60928
+
+
+SDRL NO Equity mean_spread  0.115215 median_spread   0.0999985
+SDRL NO Equity mean_trade_times   125.194 median_trade_times   0
+SDRL NO Equity mean_trade_tick   217.476 median_trade_tick   0
+SDRL NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+SEBA SS Equity mean_spread  0.114029 median_spread   0.0999985
+SEBA SS Equity mean_trade_times   313.551 median_trade_times   0
+SEBA SS Equity mean_trade_tick   688.762 median_trade_tick   128
+SEBA SS Equity Longest time between trades   56448 Longest time between tick changes   56448
+
+
+SECUB SS Equity mean_spread  0.173607 median_spread   0.199997
+SECUB SS Equity mean_trade_times   2042.47 median_trade_times   0
+SECUB SS Equity mean_trade_tick   5797.33 median_trade_tick   640
+SECUB SS Equity Longest time between trades   64256 Longest time between tick changes   64256
+
+
+SHBA SS Equity mean_spread  0.189724 median_spread   0.199982
+SHBA SS Equity mean_trade_times   2273.52 median_trade_times   128
+SHBA SS Equity mean_trade_tick   3710.34 median_trade_tick   640
+SHBA SS Equity Longest time between trades   68736 Longest time between tick changes   68736
+
+
+SKAB SS Equity mean_spread  0.142855 median_spread   0.100006
+SKAB SS Equity mean_trade_times   1126.6 median_trade_times   256
+SKAB SS Equity mean_trade_tick   1982.14 median_trade_tick   384
+SKAB SS Equity Longest time between trades   57344 Longest time between tick changes   57344
+
+
+SKFB SS Equity mean_spread  0.12989 median_spread   0.100006
+SKFB SS Equity mean_trade_times   532.98 median_trade_times   128
+SKFB SS Equity mean_trade_tick   859.544 median_trade_tick   128
+SKFB SS Equity Longest time between trades   56704 Longest time between tick changes   56704
+
+
+SSABA SS Equity mean_spread  0.0400099 median_spread   0.0400009
+SSABA SS Equity mean_trade_times   1489.15 median_trade_times   256
+SSABA SS Equity mean_trade_tick   1978.67 median_trade_tick   384
+SSABA SS Equity Longest time between trades   59648 Longest time between tick changes   59648
+
+
+STB NO Equity mean_spread  0.104891 median_spread   0.0300007
+STB NO Equity mean_trade_times   380.416 median_trade_times   0
+STB NO Equity mean_trade_tick   635.043 median_trade_tick   128
+STB NO Equity Longest time between trades   60800 Longest time between tick changes   60800
+
+
+STERV FH Equity mean_spread  0.0145592 median_spread   0.0100002
+STERV FH Equity mean_trade_times   986.43 median_trade_times   128
+STERV FH Equity mean_trade_tick   1612.95 median_trade_tick   256
+STERV FH Equity Longest time between trades   58496 Longest time between tick changes   58496
+
+
+STL NO Equity mean_spread  0.257474 median_spread   0.100006
+STL NO Equity mean_trade_times   125.744 median_trade_times   0
+STL NO Equity mean_trade_tick   296.177 median_trade_tick   0
+STL NO Equity Longest time between trades   60160 Longest time between tick changes   60160
+
+
+SUBC NO Equity mean_spread  0.219708 median_spread   0.0999985
+SUBC NO Equity mean_trade_times   222.926 median_trade_times   0
+SUBC NO Equity mean_trade_tick   387.31 median_trade_tick   128
+SUBC NO Equity Longest time between trades   60288 Longest time between tick changes   60288
+
+
+SWEDA SS Equity mean_spread  0.117057 median_spread   0.100006
+SWEDA SS Equity mean_trade_times   407.617 median_trade_times   0
+SWEDA SS Equity mean_trade_tick   793.6 median_trade_tick   128
+SWEDA SS Equity Longest time between trades   56960 Longest time between tick changes   56960
+
+
+SWMA SS Equity mean_spread  0.211323 median_spread   0.200012
+SWMA SS Equity mean_trade_times   5133.96 median_trade_times   256
+SWMA SS Equity mean_trade_tick   8893.94 median_trade_tick   1024
+SWMA SS Equity Longest time between trades   85760 Longest time between tick changes   85760
+
+
+TDC DC Equity mean_spread  0.0621129 median_spread   0.0499992
+TDC DC Equity mean_trade_times   6196.87 median_trade_times   1472
+TDC DC Equity mean_trade_tick   8560 median_trade_tick   1856
+TDC DC Equity Longest time between trades   79744 Longest time between tick changes   79744
+
+
+TEL NO Equity mean_spread  0.640302 median_spread   0.100006
+TEL NO Equity mean_trade_times   333.218 median_trade_times   0
+TEL NO Equity mean_trade_tick   672.503 median_trade_tick   128
+TEL NO Equity Longest time between trades   60160 Longest time between tick changes   60160
+
+
+TEL2B SS Equity mean_spread  0.135206 median_spread   0.0999985
+TEL2B SS Equity mean_trade_times   303.916 median_trade_times   0
+TEL2B SS Equity mean_trade_tick   594.391 median_trade_tick   128
+TEL2B SS Equity Longest time between trades   56832 Longest time between tick changes   56832
+
+
+TGS NO Equity mean_spread  0.501729 median_spread   0.199997
+TGS NO Equity mean_trade_times   304.768 median_trade_times   0
+TGS NO Equity mean_trade_tick   509.261 median_trade_tick   128
+TGS NO Equity Longest time between trades   60160 Longest time between tick changes   60160
+
+
+TIE1V FH Equity mean_spread  0.029752 median_spread   0.0299988
+TIE1V FH Equity mean_trade_times   3436.8 median_trade_times   512
+TIE1V FH Equity mean_trade_tick   4845.71 median_trade_tick   768
+TIE1V FH Equity Longest time between trades   68352 Longest time between tick changes   68352
+
+
+TLS1V FH Equity mean_spread  0.00841184 median_spread   0.00999975
+TLS1V FH Equity mean_trade_times   835.699 median_trade_times   128
+TLS1V FH Equity mean_trade_tick   1687.79 median_trade_tick   384
+TLS1V FH Equity Longest time between trades   58880 Longest time between tick changes   58880
+
+
+TLSN SS Equity mean_spread  0.0572264 median_spread   0.0499992
+TLSN SS Equity mean_trade_times   145.212 median_trade_times   0
+TLSN SS Equity mean_trade_tick   322.738 median_trade_tick   128
+TLSN SS Equity Longest time between trades   56192 Longest time between tick changes   56192
+
+
+TRYG DC Equity mean_spread  0.737645 median_spread   0.5
+TRYG DC Equity mean_trade_times   1969.1 median_trade_times   256
+TRYG DC Equity mean_trade_tick   3743.56 median_trade_tick   384
+TRYG DC Equity Longest time between trades   60032 Longest time between tick changes   60032
+
+
+UPM1V FH Equity mean_spread  0.0152805 median_spread   0.0100002
+UPM1V FH Equity mean_trade_times   1958.84 median_trade_times   256
+UPM1V FH Equity mean_trade_tick   3235.72 median_trade_tick   576
+UPM1V FH Equity Longest time between trades   58752 Longest time between tick changes   58752
+
+
+VALMT FH Equity mean_spread  0.0220904 median_spread   0.0200005
+VALMT FH Equity mean_trade_times   4585.65 median_trade_times   1152
+VALMT FH Equity mean_trade_tick   6359.27 median_trade_tick   1792
+VALMT FH Equity Longest time between trades   59776 Longest time between tick changes   59776
+
+
+VOLVB SS Equity mean_spread  0.105075 median_spread   0.0999985
+VOLVB SS Equity mean_trade_times   70.68 median_trade_times   0
+VOLVB SS Equity mean_trade_tick   168.783 median_trade_tick   0
+VOLVB SS Equity Longest time between trades   56448 Longest time between tick changes   56448
+
+
+VWS DC Equity mean_spread  0.207619 median_spread   0.200012
+VWS DC Equity mean_trade_times   509.957 median_trade_times   0
+VWS DC Equity mean_trade_tick   840.754 median_trade_tick   128
+VWS DC Equity Longest time between trades   58240 Longest time between tick changes   58240
+
+
+WDH DC Equity mean_spread  0.850925 median_spread   1
+WDH DC Equity mean_trade_times   21794.9 median_trade_times   4992
+WDH DC Equity mean_trade_tick   39616 median_trade_tick   35776
+WDH DC Equity Longest time between trades   84224 Longest time between tick changes   84224
+
+
+WRT1V FH Equity mean_spread  0.0418997 median_spread   0.0300026
+WRT1V FH Equity mean_trade_times   7707.68 median_trade_times   128
+WRT1V FH Equity mean_trade_tick   10185.1 median_trade_tick   448
+WRT1V FH Equity Longest time between trades   153088 Longest time between tick changes   153088
+
+
+YAR NO Equity mean_spread  0.599572 median_spread   0.299988
+YAR NO Equity mean_trade_times   253.838 median_trade_times   0
+YAR NO Equity mean_trade_tick   439.847 median_trade_tick   128
+YAR NO Equity Longest time between trades   60416 Longest time between tick changes   60416
+
+
+YTY1V FH Equity mean_spread  0.0123979 median_spread   0.0100002
+YTY1V FH Equity mean_trade_times   3587.24 median_trade_times   512
+YTY1V FH Equity mean_trade_tick   4814.6 median_trade_tick   1024
+YTY1V FH Equity Longest time between trades   60544 Longest time between tick changes   60544
+
+
