@@ -8,9 +8,13 @@ To compile use “g++ -std=c++11 -o a scandi.cpp”.
 In the file “report.txt” you can find the result of the analysis as follows:
 
 ABB SS Equity mean_spread  0.147277 median_spread   0.100006
+
 ABB SS Equity mean_trade_times   715.911 median_trade_times   0
+
 ABB SS Equity mean_trade_tick   1795.37 median_trade_tick   256
+
 ABB SS Equity Longest time between trades   56960 Longest time between tick changes   56960
+
 
 Where 
  - mean_spread is the mean of the difference between ask and bid price;
